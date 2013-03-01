@@ -14,4 +14,6 @@
 !link indigo[Link]https://www.indigovapor.com/
 !link wl[Link]http://www.wizardlabs.com
 
+!link bacon[Link]http://bacontoday.com/
+
 !link zelda[Music]Link, He come to town, he come to save, the princess Zelda
