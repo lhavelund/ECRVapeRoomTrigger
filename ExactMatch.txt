@@ -9,7 +9,7 @@
 !link cloud9[Link]http://cloud9vaping.co.uk
 !link lf[Link]http://liberty-flights.co.uk
 !link db[Link]http://dbliquids.com/
-!link redoc[Link]http://www.vaptivape.com
+!link redoc[Link]http://www.captivape.com
 !link fj[Link]https://fanceejuice.com/
 !link indigo[Link]https://www.indigovapor.com/
 !link wl[Link]http://www.wizardlabs.com
