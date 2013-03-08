@@ -20,4 +20,4 @@
 !link zelda[Music] Link, he come to town, he come to save, the princess Zelda
 
 !coupon tvc[Coupon] Coupon for TheVaporChef.com: *15off* for *15% off your entire order*
-!coupon zazo[Coupon] Coupon for ZaZO.de: *LeckerLiquid* for *20% off your entire order*
+!coupon zazo[Coupon] Coupon for Zazo: *LeckerLiquid* for *20% off your entire order*
