@@ -1,19 +1,23 @@
-!link vcv[Link] http://www.velvetcloudvapor.com
-!link mov[Link] http://www.mountainoakvapor.com
-!link tvc[Link] http://www.thevaporchef.com
-!link vr[Link] http://www.vaporrater.com
-!link ecr[Link] http://www.reddit.com/r/electronic_cigarette
-!link rtd[Link] http://www.rtdvapor.com
-!link sng[Link] http://www.sngvapor.com
-!link dv[Link] http://www.discountvapers.com
-!link cloud9[Link] http://cloud9vaping.co.uk
-!link lf[Link] http://liberty-flights.co.uk
-!link db[Link] http://dbliquids.com/
-!link redoc[Link] http://www.captivape.com
-!link fj[Link] https://fanceejuice.com/
-!link indigo[Link] https://www.indigovapor.com/
-!link wl[Link] http://www.wizardlabs.com
+!link vcv[Link] Velvet Cloud Vapor (US): http://www.velvetcloudvapor.com
+!link mov[Link] Mountain Oak Vapor (US): http://www.mountainoakvapor.com
+!link tvc[Link] The Vapor Chef (US): http://www.thevaporchef.com
+!link vr[Link] VaporRater (US): http://www.vaporrater.com
+!link ecr[Link] /r/electronic_cigarette (intl): http://www.reddit.com/r/electronic_cigarette
+!link rtd[Link] RTD Vapor (US): http://www.rtdvapor.com
+!link sng[Link] SNGVapor (US): http://www.sngvapor.com
+!link dv[Link] DiscountVapers (US): http://www.discountvapers.com
+!link cloud9[Link] Cloud9Vaping (UK): http://cloud9vaping.co.uk
+!link lf[Link] Liberty Flights (UK): http://liberty-flights.co.uk
+!link db[Link] Dragon's Breath Liquids (US): http://dbliquids.com/
+!link redoc[Link] CaptiVape (US): http://www.captivape.com
+!link fj[Link] Fancee Juice (US): https://fanceejuice.com/
+!link indigo[Link] Indigo Vapor (US): https://www.indigovapor.com/
+!link wl[Link] Wizard Labs (US): http://www.wizardlabs.com
+!link zazo[Link] Zazo (DE): http://zazo.de
 
-!link bacon[Link] http://bacontoday.com/
+!link bacon[Link] BACON BACON BACON: http://bacontoday.com/
 
-!link zelda[Music] Link, He come to town, he come to save, the princess Zelda
+!link zelda[Music] Link, he come to town, he come to save, the princess Zelda
+
+!coupon tvc[Coupon] Coupon for TheVaporChef.com: *15off* for *15% off your entire order*
+!coupon zazo[Coupon] Coupon for ZaZO.de: *LeckerLiquid* for *20% off your entire order*
